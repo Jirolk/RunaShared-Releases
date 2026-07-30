@@ -64,17 +64,5 @@ chmod +x RunaShared
 
 ---
 
-## Compilar tú mismo (opcional)
-```bash
-git clone https://github.com/Jirolk/runaShared.git
-cd runaShared
-pip install -r requirements.txt
-pyinstaller RunaShared.spec       # Windows
-pyinstaller RunaShared-linux.spec # Linux
-```
-El binario queda en `dist/`.
-
----
-
 ## Licencia
 MIT – uso libre, modificar y distribuir.
