@@ -77,6 +77,12 @@ chmod +x RunaShared
 
 ---
 
-## Licencia
+## Licencia y Modelo
 
-MIT – uso libre, modificar y distribuir.
+**Binarios:** Gratis para uso personal y comercial. Ver [LICENSE-BINARY.txt](LICENSE-BINARY.txt)
+
+**Código fuente:** Privado. No es open source.
+
+**Futuro:** Las versiones 2.0+ podrán incluir publicidad opcional en la interfaz web para sostener el desarrollo. La versión 1.x permanecerá sin publicidad.
+
+¿Soporte comercial / licencia sin ads / personalización? Contacto: [tu-email@dominio.com]

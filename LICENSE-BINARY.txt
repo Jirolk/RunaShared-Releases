@@ -1,0 +1,28 @@
+LICENCIA BINARIA RunaShared v1.x
+
+Copyright (c) 2026 Jirolk
+
+1. Concesión
+   Se otorga permiso gratuito, no exclusivo e intransferible para usar,
+   copiar y distribuir los binarios de RunaShared v1.x ("Software")
+   en cualquier número de dispositivos, para uso personal o comercial.
+
+2. Restricciones
+   - No descompilar, hacer ingeniería inversa ni modificar el Software.
+   - No eliminar avisos de copyright ni marcas.
+   - No usar el Software para fines ilegales.
+
+3. Sin garantía
+   EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO,
+   EXPRESA O IMPLÍCITA. EL AUTOR NO RESPONDE POR DAÑOS DIRECTOS,
+   INDIRECTOS O INCIDENTALES.
+
+4. Actualizaciones
+   Las v1.x permanecerán sin publicidad. Futuras versiones (2.0+)
+   podrán incluir publicidad opcional en la interfaz web.
+
+5. Terminación
+   Esta licencia termina automáticamente si incumple cualquiera de sus términos.
+
+Contacto comercial / licencia sin ads / personalización:
+[tu-email@dominio.com]
