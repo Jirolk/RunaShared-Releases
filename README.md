@@ -1,8 +1,8 @@
 # RunaShared Releases
 
-![RunaShared Tkinter GUI](https://raw.githubusercontent.com/Jirolk/RunaShared-Releases/main/screenshots/gui.png)
-![RunaShared Web Login](https://raw.githubusercontent.com/Jirolk/RunaShared-Releases/main/screenshots/web-gui-login.png)
-![RunaShared Web UI](https://raw.githubusercontent.com/Jirolk/RunaShared-Releases/main/screenshots/web-gui.png)
+![RunaShared Tkinter GUI](https://raw.githubusercontent.com/Jirolk/RunaShared-Releases/master/screenshots/gui.png)
+![RunaShared Web Login](https://raw.githubusercontent.com/Jirolk/RunaShared-Releases/master/screenshots/web-gui-login.png)
+![RunaShared Web UI](https://raw.githubusercontent.com/Jirolk/RunaShared-Releases/master/screenshots/web-gui.png)
 
 Binarios públicos de **RunaShared** para descarga directa.
 
