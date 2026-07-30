@@ -31,10 +31,10 @@ Binarios públicos de **RunaShared** para descarga directa.
 ## Descargas
 
 ### Windows
-- [v1.0.0](v1.0.0/windows/) – `RunaShared.exe` (ejecutable portable, ~15 MB)
+- [v1.0.0](releases/v1.0.0/) – `RunaShared.exe` (ejecutable portable, ~15 MB)
 
 ### Linux
-- [v1.0.0](v1.0.0/linux/) – `RunaShared` (binario ELF, ~18 MB)
+- [v1.0.0](releases/v1.0.0/) – `RunaShared` (binario ELF, ~18 MB)
 
 ---
 
@@ -48,7 +48,7 @@ Binarios públicos de **RunaShared** para descarga directa.
 
 ### Linux
 ```bash
-wget https://github.com/TU_USUARIO/RunaShared-Releases/releases/download/v1.0.0/RunaShared
+wget https://github.com/Jirolk/RunaShared-Releases/releases/download/v1.0.0/RunaShared
 chmod +x RunaShared
 ./RunaShared
 ```
